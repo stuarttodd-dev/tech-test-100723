@@ -7,7 +7,7 @@ The JSON-encoded affiliates.txt file attached contains a shortlist of affiliate 
 
 We want to invite any affiliate that lives within 100km of our Dublin office for some food and drinks using this text file as the input (without being altered).
 
-#Task
+## Task
 Write a program that will read the full list of affiliates from this txt file and output the name and IDs of matching affiliates within 100km, sorted by Affiliate ID (ascending).
 
 You can use the first formula from this [Wikipedia article](https://en.wikipedia.org/wiki/Great-circle_distance) to calculate distance. Don't forget, you'll need to convert degrees to radians.
